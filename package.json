@@ -4,7 +4,8 @@
   "description": "A React hook to easily manage local storage.",
   "main": "src/useLocalStorage.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint src/**/*.js"
   },
   "repository": {
     "type": "git",
