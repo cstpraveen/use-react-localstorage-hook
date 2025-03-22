@@ -24,5 +24,14 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Run linting
+        run: npm run lint
+
+      - name: Run formatting
+        run: npm run format
+
+      - name: Build package
+        run: npm run build
+
       - name: Run tests
         run: npm test
