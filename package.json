@@ -1,6 +1,6 @@
 {
   "name": "use-react-localstorage-hook",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A React hook to easily manage local storage.",
   "main": "src/useLocalStorage.js",
   "scripts": {
