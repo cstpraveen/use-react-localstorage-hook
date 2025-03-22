@@ -1,10 +1,14 @@
 {
   "name": "use-react-localstorage-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React hook to easily manage local storage.",
   "main": "src/useLocalStorage.js",
   "scripts": {
     "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cstpraveen/use-react-localstorage-hook"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
