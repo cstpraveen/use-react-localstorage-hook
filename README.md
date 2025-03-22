@@ -34,3 +34,6 @@ export default App;
 
 ## Demo
 [CodeSandbox Demo](https://codesandbox.io/p/sandbox/9srdvq)
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
